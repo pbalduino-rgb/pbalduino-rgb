@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center">🚀 Pedro Balduino</h1>
+<h1 align="center">🚀 Pedro Gabriel</h1>
 <p align="center">
   <strong>Aprendiz de programação | Aluno da Rede Estadual do Paraná</strong>
 </p>
